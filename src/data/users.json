@@ -1,0 +1,79 @@
+[
+  {
+    "id": "u-homeaffairs",
+    "username": "homeaffairs",
+    "password": "HomeAffairs@2026",
+    "name": "Palesa Ntsane",
+    "role": "homeaffairs",
+    "disabled": false,
+    "accessibility": {
+      "needs": []
+    }
+  },
+  {
+    "id": "u-traffic",
+    "username": "traffic",
+    "password": "Traffic@2026",
+    "name": "Teboho Sekhonyana",
+    "role": "traffic",
+    "disabled": false,
+    "accessibility": {
+      "needs": []
+    }
+  },
+  {
+    "id": "u-finance",
+    "username": "finance",
+    "password": "Finance@2026",
+    "name": "Nthabiseng Rapolaki",
+    "role": "finance",
+    "disabled": false,
+    "accessibility": {
+      "needs": []
+    }
+  },
+  {
+    "id": "u-pensions",
+    "username": "pensions",
+    "password": "Pensions@2026",
+    "name": "Karabo Lephoto",
+    "role": "pensions",
+    "disabled": false,
+    "accessibility": {
+      "needs": []
+    }
+  },
+  {
+    "id": "u-police",
+    "username": "police",
+    "password": "Police@2026",
+    "name": "Mohapi Tsolo",
+    "role": "police",
+    "disabled": false,
+    "accessibility": {
+      "needs": []
+    }
+  },
+  {
+    "id": "u-passport",
+    "username": "passport",
+    "password": "Passport@2026",
+    "name": "Lineo Makara",
+    "role": "passport",
+    "disabled": false,
+    "accessibility": {
+      "needs": []
+    }
+  },
+  {
+    "id": "u-admin",
+    "username": "admin",
+    "password": "Admin@2026",
+    "name": "System Administrator",
+    "role": "admin",
+    "disabled": false,
+    "accessibility": {
+      "needs": []
+    }
+  }
+]

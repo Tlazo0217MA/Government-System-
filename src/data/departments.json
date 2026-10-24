@@ -1,0 +1,8 @@
+[
+  { "key": "homeaffairs", "name": "Home Affairs" },
+  { "key": "traffic", "name": "Traffic" },
+  { "key": "finance", "name": "Finance" },
+  { "key": "pensions", "name": "Pensions" },
+  { "key": "police", "name": "Police" },
+  { "key": "passport", "name": "Passport Services" }
+]

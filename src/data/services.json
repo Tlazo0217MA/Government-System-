@@ -1,0 +1,9 @@
+[
+  { "key": "passport",            "name": "New passport application",                  "dept": "passport", "prefix": "PAS", "fee": 350, "enabled": true, "desc": "Apply for a passport for yourself or for your child. Identity details are filled in for you." },
+  { "key": "passportRenewal",     "name": "Passport renewal",                          "dept": "passport", "prefix": "REN", "fee": 300, "enabled": true, "desc": "Renew an existing passport. Your current passport record is retrieved." },
+  { "key": "passportReplacement", "name": "Lost or damaged passport replacement",      "dept": "passport", "prefix": "RPL", "fee": 450, "enabled": true, "desc": "Replace a lost, stolen or damaged passport." },
+  { "key": "licence",             "name": "Driver's licence application or renewal",   "dept": "traffic",  "prefix": "LIC", "fee": 200, "enabled": true, "desc": "Apply for or renew a driver's licence." },
+  { "key": "clearance",           "name": "Police clearance certificate",              "dept": "police",   "prefix": "POL", "fee": 100, "enabled": true, "desc": "Request a police clearance certificate." },
+  { "key": "pension",             "name": "Pension application",                       "dept": "pensions", "prefix": "PEN", "fee": 0,   "enabled": true, "desc": "Apply for a pension. You are added to the pension register." },
+  { "key": "tax",                 "name": "Tax registration and filing",               "dept": "finance",  "prefix": "TAX", "fee": 0,   "enabled": true, "desc": "Register for tax or file a return (demo)." }
+]
